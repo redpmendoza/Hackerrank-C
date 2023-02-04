@@ -19,7 +19,7 @@ int main(){
     printf("%d", max_of_four(a, b, c, d));
 }
 
-// max_of_four definition
+// Function max_of_four definition
 int max_of_four(int a, int b, int c, int d){
     
     // Store variables to array
