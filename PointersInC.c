@@ -23,7 +23,7 @@ int main(){
     printf("%d\n%d", a, b);
 }
 
-// Function update prototype
+// Function update definition
 void update(int *a, int *b){
     
     // Calculate sum and difference
