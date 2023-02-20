@@ -12,7 +12,7 @@ int main(){
     int total_number_of_queries;
     scanf("%d", &total_number_of_queries);
     
-    /* Start of Not Generater Part */
+    /* Start of Not Generated Part */
     total_number_of_books = (int*)calloc(sizeof(int), total_number_of_shelves);
     total_number_of_pages = (int**)calloc(sizeof(int*), total_number_of_shelves);
     /* End of Not Generated Part*/
